@@ -11,6 +11,14 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 ---
 
+## 📊 GitHub Stats
+
+![Repo Stars](https://img.shields.io/github/stars/Mdsaif4363/Weather-App?style=social)
+![Repo Forks](https://img.shields.io/github/forks/Mdsaif4363/Weather-App?style=social)
+![Repo Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mdsaif4363.Weather-App)
+
+---
+
 ## 🚀 Demo
 
 - Open `index.html` locally or serve via a static server (recommended for geolocation).
@@ -169,9 +177,6 @@ This is a client-side demo. API keys are public. For production:
 
 ---
 
-📊 GitHub Stats
-Repo Stars Repo Forks Repo Visitors
-
 ## 📄 License
 
 MIT — feel free to use and modify. Add your name/company to the LICENSE file if needed.
@@ -181,5 +186,4 @@ MIT — feel free to use and modify. Add your name/company to the LICENSE file i
 ## 🖋️ Footer
 Crafted with ❤️ by Md Saif — bringing weather to life with clean UI and zero build tools.
 
----
 

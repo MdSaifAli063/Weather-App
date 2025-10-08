@@ -73,10 +73,8 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 ```js
 const API_KEY = "YOUR_OPENWEATHER_API_KEY";
-
-
-
-Tip: Because this app is client-side, your key is visible to users. In your OpenWeather account, restrict the key to your domain(s) to reduce abuse.
+```
+💡 Tip: Since this is a client-side app, your key is visible. Restrict it to your domain(s) in your OpenWeather account to prevent abuse.
 
 Open index.html in a browser to try it out.
 For geolocation support, use a local web server:

@@ -66,12 +66,14 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 ---
 
-## Setup
+## ⚙️ Setup
 
-1. Get an API key from OpenWeatherMap.
+1. Get your API key from OpenWeatherMap.
 2. Open `script.js` and set your key:
-   ```js
-   const API_KEY = "YOUR_OPENWEATHER_API_KEY";
+
+```js
+const API_KEY = "YOUR_OPENWEATHER_API_KEY";
+
 
 
 Tip: Because this app is client-side, your key is visible to users. In your OpenWeather account, restrict the key to your domain(s) to reduce abuse.

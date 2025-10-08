@@ -122,13 +122,14 @@ Stored in localStorage:
 
 ---
 
-Accessibility
+## ♿ Accessibility
+- ARIA labels on buttons and interactive elements
+- Chips are keyboard-focusable
+- Live regions:
+- Loading: role="status" + aria-live="polite"
+- Errors: role="alert"
 
-Buttons and interactive elements include aria-labels.
-History chips are keyboard-focusable; Enter/Space activates search.
-Live regions:
-Loading uses role="status" and aria-live="polite".
-Errors use role="alert".
+---
 
 Troubleshooting
 

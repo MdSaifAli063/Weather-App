@@ -113,13 +113,14 @@ const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 
 ---
 
-Persistence
+## 💾 Persistence
+Stored in localStorage:
+- units: "metric" or "imperial"
+- theme: "light" or "dark"
+- history: JSON array of city names
+- lastCity: last successful search
 
-localStorage keys:
-units (“metric” | “imperial”)
-theme (“light” | “dark”)
-history (JSON array of city names)
-lastCity (last successful city name)
+---
 
 Accessibility
 

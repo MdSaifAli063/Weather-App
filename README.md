@@ -160,14 +160,26 @@ This is a client-side demo. API keys are public. For production:
 
 ---
 
-Roadmap Ideas
+## 🗺️ Roadmap Ideas
+- 🌫️ Air quality and precipitation probability
+- 📈 Hourly forecast chart (e.g., Chart.js)
+- 📌 Favorite cities pinning and reordering
+- 🌍 Multi-language support
+- 📦 PWA/offline caching
 
-Air quality and precipitation probability
-Hourly forecast chart (e.g., Chart.js)
-Favorite cities pinning and reordering
-Multi-language support
-PWA/offline caching
+---
 
-License
+📊 GitHub Stats
+Repo Stars Repo Forks Repo Visitors
+
+## 📄 License
 
 MIT — feel free to use and modify. Add your name/company to the LICENSE file if needed.
+
+---
+
+## 🖋️ Footer
+Crafted with ❤️ by Md Saif — bringing weather to life with clean UI and zero build tools.
+
+---
+

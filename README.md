@@ -41,11 +41,17 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- HTML5, CSS3 (vanilla)
-- JavaScript (vanilla)
-- OpenWeatherMap API
+| Tool | Description |
+|------|-------------|
+| 🧱 HTML5 | Markup |
+| 🎨 CSS3 | Styling (themes, responsiveness) |
+| ⚙️ JavaScript | App logic, API calls |
+| 🌐 OpenWeatherMap API | Weather data |
+
+---
+
 
 ## Project Structure
 

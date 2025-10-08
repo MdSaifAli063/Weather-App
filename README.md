@@ -144,13 +144,14 @@ Stored in localStorage:
 
 ---
 
-Customization
+## 🎨 Customization
+- Modify CSS variables in style.css:
+- Dark theme: :root
+- Light theme: body.light
+- Max history items: adjust cap (default 8) in persistCity
+- Forecast length: change pickDaily(byDate, 5)
 
-Colors and themes: modify CSS variables in style.css:
-Dark theme defaults in :root
-Light theme overrides in body.light
-Maximum history items: adjust the cap (8) in script.js in persistCity.
-Forecast length: change pickDaily(byDate, 5) to show more/less days.
+---
 
 Security Note
 

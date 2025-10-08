@@ -84,11 +84,15 @@ const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 - Click Use My Location to fetch weather via geolocation
 - Toggle units with Switch to °F/°C
 - Toggle theme with Dark Mode/Light Mode
+  
+---
 
-Recent Searches:
-Click a chip to search again
-Click × on a chip to remove it
-Click “Clear All” to remove the entire history
+## 🔁 Recent Searches
+- Click a chip to search again
+- Click × to remove a chip
+- Click Clear All to reset history story
+
+---
 
 Keyboard shortcuts:
 

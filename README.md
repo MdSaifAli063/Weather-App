@@ -76,18 +76,12 @@ const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 ```
 💡 Tip: Since this is a client-side app, your key is visible. Restrict it to your domain(s) in your OpenWeather account to prevent abuse.
 
-Open index.html in a browser to try it out.
-For geolocation support, use a local web server:
-VS Code: “Live Server” extension
-Python 3: python -m http.server 5173
-Node: npx serve . or npx http-server -p 5173
+## 🧪 Usage
 
-Usage
-
-Enter a city (e.g., “London”, “Paris”) and click “Get Weather” or press Enter.
-Click “Use My Location” to fetch weather using geolocation.
-“Switch to °F/°C” toggles units and re-fetches the current city.
-“Dark Mode/Light Mode” toggles theme.
+- Type a city (e.g., “London”, “Paris”) and click Get Weather or press Enter
+- Click Use My Location to fetch weather via geolocation
+- Toggle units with Switch to °F/°C
+- Toggle theme with Dark Mode/Light Mode
 
 Recent Searches:
 Click a chip to search again

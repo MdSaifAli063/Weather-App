@@ -57,10 +57,14 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 . ├── index.html       # App markup ├── style.css        # Styles (themes, responsive) └── script.js        # App logic, API requests, UI updates
 
-## Prerequisites
+---
 
-- OpenWeatherMap API key (free): https://openweathermap.org/
-- For geolocation to work: serve over HTTPS or use localhost (most browsers block geolocation on file://)
+## 🔑 Prerequisites
+
+- Get a free API key from [OpenWeatherMap](https://openweathermap.org/)
+- For geolocation to work: serve over HTTPS or use `localhost`
+
+---
 
 ## Setup
 

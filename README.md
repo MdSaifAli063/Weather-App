@@ -76,6 +76,8 @@ const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 ```
 💡 Tip: Since this is a client-side app, your key is visible. Restrict it to your domain(s) in your OpenWeather account to prevent abuse.
 
+---
+
 ## 🧪 Usage
 
 - Type a city (e.g., “London”, “Paris”) and click Get Weather or press Enter

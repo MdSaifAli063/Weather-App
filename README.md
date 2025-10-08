@@ -55,9 +55,7 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 ## 📁 Project Structure
 
-
-. ├─ index.html # App markup ├─ style.css # Styles (light/dark themes, responsive) └─ script.js # App logic, API requests, UI updates, history
-
+. ├── index.html       # App markup ├── style.css        # Styles (themes, responsive) └── script.js        # App logic, API requests, UI updates
 
 ## Prerequisites
 

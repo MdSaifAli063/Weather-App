@@ -94,11 +94,12 @@ const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 
 ---
 
-Keyboard shortcuts:
+## ⌨️ Keyboard Shortcuts
+- Enter in input: submit search
+- Enter/Space on chip: trigger search
+- × button: focusable and clickable to remove
 
-In the city input: Enter submits the search.
-On a recent search chip: Enter/Space triggers search; the × button is clickable/focusable to remove.
-
+---
 API Details
 
 Base URL: https://api.openweathermap.org/data/2.5

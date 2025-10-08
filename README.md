@@ -153,9 +153,12 @@ Stored in localStorage:
 
 ---
 
-Security Note
+## 🔐 Security Note
+This is a client-side demo. API keys are public. For production:
+- Use a proxy backend to hide your key
+- Add rate limiting and abuse protection
 
-This is a client-side demo. API keys in the browser are public. For production, consider a small proxy backend to keep your key secret and add rate limiting.
+---
 
 Roadmap Ideas
 

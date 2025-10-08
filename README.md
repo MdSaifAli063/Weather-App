@@ -131,17 +131,18 @@ Stored in localStorage:
 
 ---
 
-Troubleshooting
+## 🧯 Troubleshooting
+- ❗ “Please set your OpenWeatherMap API key”:
+- Replace YOUR_OPENWEATHER_API_KEY in script.js
+- 📍 Geolocation not working:
+- Use HTTPS or localhost
+- Allow location access in browser
+- 🏙️ 404 City not found:
+- Check spelling or use "City, CountryCode" (e.g., "Paris, FR")
+- 🚦 Rate limits:
+- Free plans allow ~60 requests/min — avoid rapid toggling
 
-“Please set your OpenWeatherMap API key”:
-Make sure you replaced YOUR_OPENWEATHER_API_KEY in script.js.
-Geolocation denied/not working:
-Ensure you’re on HTTPS or http://localhost.
-Browser settings may block geolocation—allow location access when prompted.
-404 City not found:
-Check spelling; try “City, CountryCode” (e.g., “Paris, FR”).
-Rate limits:
-Free OpenWeather plans have limits (e.g., 60 requests/min). Avoid rapid toggling and repeated queries.
+---
 
 Customization
 

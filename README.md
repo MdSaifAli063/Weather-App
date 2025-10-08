@@ -14,25 +14,32 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 ## 🚀 Demo
 
 - Open `index.html` locally or serve via a static server (recommended for geolocation).
-- Example screenshot(s): add your own in a `/Screenshot` folder and reference here.
 - ![Weather App Screenshot](https://github.com/Mdsaif4363/Weather-App/blob/593e8c71e6d5fb3bf79b95de5d1eaa0de74d5f95/Screenshot%202025-08-25%20155511.png)
 
 ---
 
-## Features
+## ✨ Features
 
-- Search weather by city
-- Use My Location via browser geolocation (HTTPS or localhost required)
-- Unit toggle: Celsius ↔ Fahrenheit (persists in localStorage)
-- Theme toggle: Light ↔ Dark (persists in localStorage)
-- Current weather details: temperature, description, feels like, humidity, wind, sunrise, sunset
-- 5-day forecast with daily min/max and icons
-- Recent searches with:
+- 🔍 Search weather by city
+- 📍 Use My Location via browser geolocation (HTTPS or localhost required)
+- 🌡️ Unit toggle: Celsius ↔ Fahrenheit (persists in `localStorage`)
+- 🌓 Theme toggle: Light ↔ Dark (persists in `localStorage`)
+- 📊 Current weather details:
+  - Temperature
+  - Description
+  - Feels like
+  - Humidity
+  - Wind
+  - Sunrise/Sunset
+- 📅 5-day forecast with daily min/max and icons
+- 🕘 Recent searches:
   - Click to search again
   - Remove individual chips (×)
   - Clear all
-- Loading spinner and friendly error messages
-- Responsive, accessible UI (keyboard navigation and ARIA labels)
+- ⏳ Loading spinner and friendly error messages
+- 📱 Responsive, accessible UI (keyboard navigation + ARIA labels)
+
+---
 
 ## Tech Stack
 

@@ -100,20 +100,18 @@ const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 - × button: focusable and clickable to remove
 
 ---
-API Details
 
-Base URL: https://api.openweathermap.org/data/2.5
+## 🔌 API Details
+- Base URL: https://api.openweathermap.org/data/2.5
+- Endpoints:
+- /weather?q={city}&appid={API_KEY}&units={metric|imperial}
+- /forecast?q={city}&appid={API_KEY}&units={metric|imperial}
+## 📎 Notes
+- Units: metric = °C & m/s, imperial = °F & mph
+- Icons: https://openweathermap.org/img/wn/{iconCode}@2x.png
+- Forecast: reduced to one entry per day (closest to 12:00), min/max computed
 
-Endpoints used:
-
-Current weather: /weather?q={city}&appid={API_KEY}&units={metric|imperial}
-Forecast (3-hourly): /forecast?q={city}&appid={API_KEY}&units={metric|imperial}
-
-Notes:
-
-Units: metric = °C and m/s, imperial = °F and mph
-Icons: https://openweathermap.org/img/wn/{iconCode}@2x.png
-Forecast is reduced to one representative entry per day (closest to 12:00) and daily min/max computed from all entries of that day.
+---
 
 Persistence
 

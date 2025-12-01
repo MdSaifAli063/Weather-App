@@ -1,8 +1,7 @@
-// ============ Configuration ============
-const API_KEY = "a02c73082d8558275f27319e5d36b625"; // <-- Put your OpenWeatherMap API key here
+
+const API_KEY = "a02c73082d8558275f27319e5d36b625";
 const BASE_URL = "https://api.openweathermap.org/data/2.5";
 
-// ============ State & Elements ============
 const els = {
   cityInput: document.getElementById("city-input"),
   getWeatherBtn: document.getElementById("get-weather-btn"),

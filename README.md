@@ -23,9 +23,8 @@ A lightweight, responsive weather application using **OpenWeatherMap** that supp
 
 - Open `index.html` locally or serve via a static server (recommended for geolocation).
 
-<<<<<<< HEAD
+# Preview 
 - ![Weather App Screenshot](https://github.com/Mdsaif4363/Weather-App/blob/593e8c71e6d5fb3bf79b95de5d1eaa0de74d5f95/Screenshot%202025-08-25%20155511.png)
->>>>>>> 
 
 ---
 
